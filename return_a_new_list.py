@@ -1,4 +1,4 @@
-# Write a Python function that takes a list of strings as input and 
+#This Python function that takes a list of strings as input and 
 # returns a new list containing only the strings with more than 5 characters.
 
 def greater_than_five(string_list):
